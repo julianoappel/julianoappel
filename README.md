@@ -2,7 +2,7 @@
 
 * 💻 Apaixonado por programação, tecnologia e inovação!
 * 🤝 Sempre disposto a ajudar e a aprender
-* 👨‍💻 Em busca da primeira oportunidade como desenvolvedor de sistemas back-end
+* 👨‍💻 Trainee software developer at Solinftec
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas - Anhanguera
 * 🎓 Formado em Ciências Contábeis - PUC PR
 
